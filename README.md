@@ -1,2 +1,2 @@
-# dev-doc
-dev-doc
+# Developer code guide.
+Developer code guide.
