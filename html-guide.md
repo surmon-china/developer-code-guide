@@ -25,7 +25,7 @@
           <option disabled selected value>- 选择机构 -</option>
         </select>
 
--  禁止为了 hook 脚本，创建无样式信息的 class不，允许 class 只用于让 JavaScript 选择某些元素，class 应该具有明确的语义和样式；否则容易导致 CSS class 泛滥。使用 id、属性选择作为 hook 是更好的方式。
+-  禁止为了 hook 脚本，创建无样式信息的 class，不允许 class 只用于让 JavaScript 选择某些元素，class 应该具有明确的语义和样式；否则容易导致 CSS class 泛滥。使用 id、属性选择作为 hook 是更好的方式。
 
 - 同一页面，应避免使用相同的 name 与 id，元素ID仅供JS/Dom操作使用，与样式无关，且ID必须全局唯一
 
